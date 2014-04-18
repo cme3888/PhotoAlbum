@@ -1,0 +1,76 @@
+header {
+	margin:20px;
+	padding:20px;
+	height:60px;
+	width:960px;
+	background-color: pink;
+}
+.albumone{
+	margin:20px;
+	padding:20px;
+	height:200px;
+	width:200px;
+	display: inline-block;
+	float:right;
+}
+.albumone a,img{
+	height:200px;
+	width:200px;
+	display: inline-block;
+}
+
+.albumtwo{
+	margin:50px;
+	padding:70px;
+	height:200px;
+	width:200px;
+	display: inline-block;
+}
+.albumtwo a,img{
+	height:200px;
+	width:200px;
+	display: inline-block;
+}
+
+.albumthree{
+	margin:20px;
+	padding:20px;
+	height:200px;
+	width:200px;
+	display: inline-block;
+	float:left;
+
+}
+.albumthree a, img{
+	height:200px;
+	width:200px;
+	display: inline-block;
+}
+.oneimages1{
+	margin:20px;
+	padding:20px;
+	height:200px;
+	width:200px;
+
+}
+.twoimages1 .twoimages2 .twoimages3 img{
+	margin:20px;
+	padding:20px;
+	height:200px;
+	width:200px;
+
+}
+.threeimages1 .threeimages2 .threeimages3 img{
+	margin:20px;
+	padding:20px;
+	height:200px;
+	width:200px;
+
+}
+footer{
+	margin:20px;
+	padding:20px;
+	height:60px;
+	width:960px;
+	background-color: pink; 
+}
